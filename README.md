@@ -1,22 +1,19 @@
 # Wiser Riser
 
-🧪 An open-source web3-based social media component set for scaling up moderator effort on sites with a lot of user-generated content.
+🧪 An open-source web3-based social media component set for scaling up moderator efforts on sites with a lot of user-generated content.
 This could be used in social media settings (similar to Reddit), in screening processes for quadratic funding community support rounds
 (like a blend of Giveth and Gitcoin), and co-learning/review communities (e.g. around photography, writing, or much more).
 
 ⚙️ This was built using Scaffold-ETH 2 at [ETHGlobal Waterloo 2023](https://ethglobal.com/events/waterloo2023).
 
-- Home Page
-<img width="1511" alt="Screenshot 2023-06-25 at 4 01 33 AM" src="https://github.com/WiserRiser/hackathon1/assets/20705520/b1bb0a06-a523-48dc-a73d-2e4f57daf081">
+### Home Page
+<img width="1000" alt="Home Page" src="https://github.com/WiserRiser/posthackathon/blob/main/docs/graphicsSource/coverPage.png">
 
-- Onboarding users with WorldCoinID / Polygon ID
-<img width="1505" alt="Screenshot 2023-06-25 at 4 03 14 AM" src="https://github.com/WiserRiser/hackathon1/assets/20705520/688c53b7-6100-4515-9161-d6bd52299d5c">
+### Onboarding users with WorldCoinID / Polygon ID
+<img width="500" alt="Onboarding" src="https://github.com/WiserRiser/posthackathon/blob/main/docs/graphicsSource/Mod Onboarding.png">
 
-- Login via WorldcoinId
-<img width="1502" alt="Screenshot 2023-06-25 at 4 03 39 AM" src="https://github.com/WiserRiser/hackathon1/assets/20705520/ae55314f-609f-4e98-b431-48206ea4180e">
-
-Add Community and mod members
-<img width="1503" alt="Screenshot 2023-06-25 at 4 04 25 AM" src="https://github.com/WiserRiser/hackathon1/assets/20705520/3007f58a-258c-4c94-9879-23c72deed2ef">
+### Voting System
+<img width="500" alt="Voting" src="https://github.com/WiserRiser/posthackathon/blob/main/docs/graphicsSource/Voting_Final.png">
 
 ## How To Run
 
